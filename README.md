@@ -21,14 +21,9 @@ I build responsive, modern web interfaces with a focus on clean UI, reusable com
 
 ## ⭐ Featured Projects
 
-### 🍽️ Savorra — Restaurant Website
-A responsive restaurant website with menu, online ordering, table booking, outlet and promotional sections.
-
-### 🍎 Apple Mac UI Clone
-A frontend recreation of Apple's Mac product experience using HTML and CSS.
-
-### 🎨 Figma Frontend Projects
-UI designs converted into responsive frontend layouts with HTML, CSS and Tailwind CSS.
+- 🍽️ [Savorra — Restaurant Website](https://github.com/Sanhack45/Milstone-Project-01)
+- 🍎 [Apple Mac UI Clone](https://github.com/Sanhack45/Apple-project)
+- 🎨 [Frontend Clone Website](https://github.com/Sanhack45/clone-websiteS)
 
 ## 📌 Current Focus
 
